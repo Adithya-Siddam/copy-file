@@ -32,8 +32,8 @@ End the program.
 
 ## PROGRAM:-
 ~~~
-Developed by: S Adithya Chowdary.
-reference Number: 21001700.
+#Developed by: S Adithya Chowdary.
+#reference Number: 21001700.
 with open('text','r') as file1:
     with open('text1','w') as file2:
         for i in file1:
