@@ -8,7 +8,7 @@ Anaconda - Python 3.7
  
 ### Step 1:
 
-Start.
+Start creating the python project for copying a file.
 
 ### Step 2:
 
