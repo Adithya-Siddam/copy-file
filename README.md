@@ -42,7 +42,7 @@ with open('text','r') as file1:
 
 ### OUTPUT:-
 
-![OUTPUT](/IMAGES/img111.png)
+![OUTPUT](/IMAGES/img32.png)
 
 TEST CASE:-
 
